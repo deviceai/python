@@ -1,0 +1,9 @@
+pip install virtualenv
+python -m venv env
+
+env\Scripts\activate.bat //In CMD
+env\Scripts\Activate.ps1 //In Powershel
+
+pip list
+pip freeze > requirements.txt
+pip install -r requirements.txt

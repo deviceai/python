@@ -1,6 +1,6 @@
 import unittest
 
-from mycode.sort_file import sort_file
+from CodeClub.sort_file import sort_file
 
 
 class TestSort(unittest.TestCase):

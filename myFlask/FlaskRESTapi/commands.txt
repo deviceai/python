@@ -1,0 +1,7 @@
+pip freeze > requirements.txt
+
+docker build -t flask-rest-api .
+docker images
+docker run -d -p 5000:5000 flask-rest-api
+docker ps -a
+docker logs <CONTAINER ID OR CONTAINER NAME>

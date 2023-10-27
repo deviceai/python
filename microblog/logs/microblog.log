@@ -86,3 +86,9 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [parameters: ('alex', 'Something about myself here', 3)]
 (Background on this error at: https://sqlalche.me/e/20/gkpj)
 2023-10-20 13:59:26,420 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-26 15:54:55,480 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-26 16:21:24,174 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-26 16:21:34,530 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-26 16:52:29,440 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-26 17:09:58,185 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-10-27 10:04:20,304 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]

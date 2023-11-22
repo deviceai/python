@@ -101,3 +101,4 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 2023-10-30 13:04:53,986 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
 2023-10-30 13:12:44,254 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
 2023-10-30 13:17:38,029 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
+2023-11-08 17:59:25,909 INFO: Microblog startup [in C:\CODING\python\microblog\app\__init__.py:49]
